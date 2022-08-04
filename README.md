@@ -2,7 +2,7 @@
 
 <h2><u>English</u></h2>
 
-This repository contains the codes used in the test for the CRM Analyst - Salesforce Development(E-mail Specialist) position.  
+This repository contains the codes used in the test for the CRM Analyst - Salesforce Development (E-mail Specialist) position.  
 
 In this README, I describe the codes I used to answer to the exercises in the test:
 
